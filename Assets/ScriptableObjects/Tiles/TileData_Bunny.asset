@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfcdbd59c1744e34aec00332ee2126f6, type: 3}
+  m_Name: TileData_Bunny
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 2003645657716910301, guid: af2a228618cb9a94bb9f74975e7845af, type: 3}
+  tileID: Bunny
+  shapeSprite: {fileID: 21300000, guid: 321b6ed9022b4ad489a0075b84abd946, type: 3}
+  animalSprite: {fileID: -1827113524, guid: af1c312a4a274ee4bb5373e2381e7393, type: 3}
+  frameColor: {r: 0.90188676, g: 0.011911665, b: 0.6661339, a: 1}
+  isHeavy: 0
